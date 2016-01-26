@@ -1,0 +1,8 @@
+c:\users\michał\documents\visual studio 2013\Projects\message brokers\message brokers\bin\Debug\message brokers.exe.config
+c:\users\michał\documents\visual studio 2013\Projects\message brokers\message brokers\bin\Debug\message brokers.exe
+c:\users\michał\documents\visual studio 2013\Projects\message brokers\message brokers\bin\Debug\message brokers.pdb
+c:\users\michał\documents\visual studio 2013\Projects\message brokers\message brokers\bin\Debug\RabbitMQ.Client.dll
+c:\users\michał\documents\visual studio 2013\Projects\message brokers\message brokers\bin\Debug\RabbitMQ.Client.xml
+c:\users\michał\documents\visual studio 2013\Projects\message brokers\message brokers\obj\Debug\message brokers.csprojResolveAssemblyReference.cache
+c:\users\michał\documents\visual studio 2013\Projects\message brokers\message brokers\obj\Debug\message brokers.exe
+c:\users\michał\documents\visual studio 2013\Projects\message brokers\message brokers\obj\Debug\message brokers.pdb
